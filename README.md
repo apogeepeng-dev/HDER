@@ -2,7 +2,8 @@ HDER: Hierarchical Diagnostic Evidence Refinement for
 Few-Shot Vision-Language Differentiation of Primary Liver
 Cancers
 
-Simple Summary 1
+Simple Summary 
+
 Hepatocellular carcinoma and intrahepatic cholangiocarcinoma are the two main primary 
 liver cancers. They are treated differently, so telling them apart on a routine section matters. 
 Whole-slide images make the morphology available to a computer, but labelled slides 
