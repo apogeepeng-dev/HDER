@@ -15,6 +15,10 @@ patch. With 8 and 16 labelled slides per class, the two adjustments together out
 multiple-instance and vision–language baselines we compare against, and each of them 
 contributes on its own. 
 
+Overview of model
+
+<img width="1134" height="658" alt="image" src="https://github.com/user-attachments/assets/e2382757-ff42-4777-aecf-54f0f342dfa6" />
+
 1 Code execution reference ViLa MIL (2024 CVPR)
 
 2 CONCH weight configuration reference FOCUS (2025 CVPR) and CONCH
