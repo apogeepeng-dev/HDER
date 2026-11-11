@@ -16,5 +16,6 @@ multiple-instance and vision–language baselines we compare against, and each o
 contributes on its own. 
 
 1 Code execution reference ViLa MIL (2024 CVPR)
+
 2 CONCH weight configuration reference FOCUS (2025 CVPR) and CONCH
 
