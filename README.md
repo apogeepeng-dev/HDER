@@ -14,3 +14,7 @@ global context block that summarises the whole slide and writes the summary back
 patch. With 8 and 16 labelled slides per class, the two adjustments together outperform the 
 multiple-instance and vision–language baselines we compare against, and each of them 
 contributes on its own. 
+
+1 Code execution reference ViLa MIL (2024 CVPR)
+2 CONCH weight configuration reference FOCUS (2025 CVPR) and CONCH
+
