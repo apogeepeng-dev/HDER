@@ -17,7 +17,7 @@ contributes on its own.
 
 Overview of model
 
-<img width="1150" height="669" alt="image" src="https://github.com/user-attachments/assets/af310522-50fa-4d43-af19-8827c33aefc4" />
+<img width="1142" height="661" alt="image" src="https://github.com/user-attachments/assets/7212cc1c-836c-4ba9-bd2b-89bf324b5cc9" />
 
 1 Code execution reference ViLa MIL (2024 CVPR)
 
